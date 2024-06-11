@@ -1,3 +1,5 @@
+# BMI CALCULATOR 
+
 from tkinter import *
 from tkinter import messagebox
 
