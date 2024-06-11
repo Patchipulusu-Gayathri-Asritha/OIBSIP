@@ -6,7 +6,7 @@ In this Repository I have submitted 4 tasks as part of OASIS INFOBYTE PYTHON INT
   TASK 4- SIMPLE WEATHER APPLICATION<br><br>
 
 TASK 1- VOICE ASSISTANT<br>
-  In this Task, The Assistant name is "SHAAN"
+  In this Task, The Assistant name is "SHAAN".<br>
   With the help of SHAAN , you can ask TIME, TRANSLATE some text to Italian, You can take a SCREENSHOT, Listen a JOKE, 
   Open Some Websites like WHATSAPP,LINKEDIN,INSTAGRAM etc., 
   And You can ask Information from GOOGLE and WIKIPEDIA, 
